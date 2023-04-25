@@ -25,9 +25,9 @@ The NetApp BlueXP login page appears.
 
 . Do one of the following: 
 
-.. From the BlueXP left navigation, select *Storage* > *Reports*.
+* From the BlueXP left navigation, select *Storage* > *Reports*.
 
-.. From the BlueXP Canvas, select your working environment. In the right panel, select *Reports* > *View Cluster Reports*.
+* From the BlueXP Canvas, select your working environment. In the right panel, select *Reports* > *View Cluster Reports*.
  
 +
 The report listing appears. If you selected a specific cluster in the BlueXP Canvas right panel, reports are filtered only for that cluster

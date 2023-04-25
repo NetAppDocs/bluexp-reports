@@ -20,7 +20,7 @@ indexpage:
       url: /get-started/faq.html 
   - title: Use BlueXP reports
     links:
-    - title: Report overview
+    - title: Reports overview
       url: /use/report-overview.html
     - title: Create a report
       url: /use/report-create.html
