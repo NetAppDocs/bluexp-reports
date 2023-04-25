@@ -1,9 +1,36 @@
 indexpage:
-  lead: # single paragraph, shown on the page
+  lead: When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
   tiles:
-    # one or more tile definitions for the page
-  - title: # short string (tile title)
+  - title: Get started
+    #image: ./media/outline_directions_run_black_18dp.png
     links:
-      # one or more links on the tile
-      - title: # short string (link title)
-        url: # single file name or external URL
+    - title: Learn about BlueXP reports
+      url: /get-started/intro.html
+    - title: What's new in BlueXP reports
+      url: /release-notes/whats-new.html
+#   - title: Release notes
+#     url: /release-notes/rn_overview.html
+    - title: Quick start
+      url: /get-started/quick-start.html
+    - title: Prerequisites
+      url: /get-started/prerequisites.html
+    - title: Log in to BlueXP reports
+      url: /get-started/login.html
+    - title: FAQ
+      url: /get-started/faq.html 
+  - title: Use BlueXP reports
+    links:
+    - title: Report overview
+      url: /use/report-overview.html
+    - title: Create a report
+      url: /use/report-create.html
+    - title: View a report sample
+      url: /use/report-sample.html
+    - title: Delete a report
+      url: /use/report-delete.html
+  - title: Blogs & community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Cloud webinars
+      url: https://bluexp.netapp.com/events       

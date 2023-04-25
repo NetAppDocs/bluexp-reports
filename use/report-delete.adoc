@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: use/report-delete.html
+keywords: bluexp reports, data protection reports
+summary: With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+---
+
+= Delete a report
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.  
+
+
+You might want to delete a report if it contained an error that you fixed or you no longer need that report. 
+
+.Steps 
+
+. From the BlueXP left nav, select *Storage* > *Reports*.
+
+. From the Reports Dashboard, select a report.
+. On the report row, select the *Actions* … menu and select *Delete Report*.  
+
+. Select *Delete* to confirm the deletion. 

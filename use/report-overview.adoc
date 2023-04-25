@@ -1,0 +1,21 @@
+---
+sidebar: sidebar
+permalink: use/report-overview.html
+keywords: bluexp reports, data protection reports
+summary: With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+---
+
+= Reports overview
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.  
+
+BlueXP reports services display data by volumes.
+
+Using BlueXP reports you can accomplish these goals: 
+
+* link:../use/report-create.html[Create a report showing your storage inventory]
+* link:../use/report-delete.html[Delete a report]

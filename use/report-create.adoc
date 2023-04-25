@@ -1,0 +1,40 @@
+---
+sidebar: sidebar
+permalink: use/report-create.html
+keywords: bluexp reports, data protection reports
+summary: With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+---
+
+= Create a report
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+You can create a report that will show the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
+
+Each time you create a report, the BlueXP reports service scans the path and compiles the data. 
+
+.Steps 
+
+. From the BlueXP left nav, select *Storage* > *Reports*.
+
+. Select *Create New Report*.
+
+. Enter a report name. 
+
+. Select a working environment from the drop-down list.
++
+Only those environments that are active and enabled in BlueXP appear in the list of working environments. 
+
++
+If you want to enable an environment, refer to https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required[Learn about Connectors in BlueXP documentation].
+
+. Using the *Search* icon, search for the volume or choose from the list. 
+
+. To narrow your search, select the report (in the green circle at the left) and sort the data in the columns. 
+
+. Select *Create Report*. 
+
++
+The BlueXP reports service generates the report and displays it.

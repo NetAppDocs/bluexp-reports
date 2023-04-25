@@ -1,0 +1,39 @@
+---
+sidebar: sidebar
+permalink: get-started/faq.html
+keywords: reports faq, frequently asked questions
+summary: This FAQ can help if you're just looking for a quick answer to a question.
+---
+
+= Frequently asked questions for BlueXP reports
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+This FAQ can help if you're just looking for a quick answer to a question.
+
+
+== Access to BlueXP reports service
+
+
+*What's the BlueXP reports service URL?*
+
+
+For the URL, in a browser, enter: https://console.bluexp.netapp.com/[https://console.bluexp.netapp.com/^] to access the BlueXP console. 
+
+*How do you set up BlueXP reports?*
+
+The BlueXP reports service does not require any set up. The BlueXP reports option is automatically enabled on the BlueXP left navigation. 
+
+*Do I need a data broker?*
+
+In BlueXP copy and sync (Cloud Sync), you might need a data broker. However, the BlueXP reports service does not require a data broker. 
+
+
+== Licensing
+
+*Do you need a license to use BlueXP reports?*
+
+A NetApp License File (NLF) is not required.
+
