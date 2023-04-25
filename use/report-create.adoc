@@ -15,6 +15,9 @@ You can create a report that will show the number of files, files in directories
 
 Each time you create a report, the BlueXP reports service scans the path and compiles the data. 
 
+The BlueXP reports service shows data by volumes.
+
+
 .Steps 
 
 . From the BlueXP left nav, select *Storage* > *Reports*.

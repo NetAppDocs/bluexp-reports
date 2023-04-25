@@ -16,7 +16,6 @@ When you are preparing to move, migrate, or clone file system data, you first ne
 
 The BlueXP reports service shows information only for NFS working environments. 
 
-BlueXP reports services display data by volumes.
 
 
 == Benefits of BlueXP reports
