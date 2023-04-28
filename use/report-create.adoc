@@ -11,9 +11,9 @@ summary: With the BlueXP reports service, you can quickly identify the number of
 :imagesdir: ../media/use/
 
 [.lead]
-You can create a report that will show the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
+You can create a volumes report that will show the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
 
-Each time you create a report, the BlueXP reports service scans the path and compiles the data. 
+Each time you create a report, the BlueXP reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
 
 The BlueXP reports service shows data by volumes.
 
@@ -35,7 +35,7 @@ If you want to enable an environment, refer to https://docs.netapp.com/us-en/clo
 
 . Using the *Search* icon, search for the volume or choose from the list. 
 
-. To narrow your search, select the report (in the green circle at the left) and sort the data in the columns. 
+. To sort the data in different order, select the report (in the circle at the left) and sort the data in the columns. 
 
 . Select *Create Report*. 
 

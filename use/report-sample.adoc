@@ -5,13 +5,13 @@ keywords: bluexp reports, data protection reports
 summary: Look at a sample report and learn what the data is showing. 
 ---
 
-= View a sample report
+= View a sample report - the Backup Inventory report
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/use/
 
 [.lead]
-Look at a sample report and learn what the data is showing. 
+Look at a sample Backup Inventory report and learn what the data is showing. 
 
 You can generate only one report at a time. 
 
@@ -21,15 +21,33 @@ The title of the report, for example “Volumes (100)”, indicates the number o
 
 . From the BlueXP left nav, select *Storage* > *Reports*.
 
-. Select *Create New Report*.
+. Select *Create report*.
 
-. From the Dashboard, you can search for a report name or the volume name. You can also sort data in columns to show only the data you want. 
+. From the report definition page, choose the account scope either at the account level or a custom scope that you define. 
+..If you choose *Account level*, choose to report on all volumes or only those volumes that have backup copies. 
+..If you choose *Custom scope*, choose to report on one or more working environments and SVMs. To report on another working environment, select *Add Working Environment*. 
+
+
+. Select *Create report*.
+
+. Optionally sort the column data. 
++
+The report is generated. 
+
++
+image:backup-inventory-account-scope.png["This image shows the Delete page that enables you to delete multiple reports"]
 
 . To learn what the columns mean, hover over some of the information:  
 
 .. To learn the SVM name, hover over the “*I*” information icon next to the Volume name. 
 
 .. To learn about failed reports, hover over the *Failed information* in the Last Report Status column. 
+
+
+. To download the report in CSV format, select *Download CSV*.
+
+. To show details of the backup copies, in the Backup copies column, select *View backup list*. 
+
 
 . View the report information: 
 +
@@ -56,9 +74,11 @@ The title of the report, for example “Volumes (100)”, indicates the number o
 
 . To return to the Reports Dashboard, select *Reports* in the breadcrumbs.  
 
-=== View the Report distribution information 
+=== View the Reports Distribution information 
 
-You might need to check the change of data from one report date to another. You can do this using the Reports Distribution. 
+You might need to how the data has changed from one report date to another. You can do this by using the Reports Distribution charts. 
+
+The Reports Distribution information is available only on completed reports. 
 
 .Steps 
 
@@ -70,7 +90,7 @@ You might need to check the change of data from one report date to another. You 
 
 . View the Reports distribution: 
 +
-* *Distribution Overtime (Total Size)*: Shows the size of the volume on different dates. 
+* *Distribution Overtime (Total Size)*: The size of the volume on different dates. 
 
-* *Distribution Overtime (Total Items)*: Shows the number of files, folders, links, and directories on different dates. 
+* *Distribution Overtime (Total Items)*: The number of files, folders, links, and directories on different dates. 
 
