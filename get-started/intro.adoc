@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: get-started/intro.html
 keywords: how bluexp reports works, reports, bluexp
-summary: The BlueXP economic efficiency service identifies clusters with current or forecasted low capacity and provides you recommendations on data tiering or additional capacity (for AFF systems).
+summary: With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
 
 ---
 
@@ -14,7 +14,7 @@ summary: The BlueXP economic efficiency service identifies clusters with current
 [.lead]
 When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. With this information, you will know ahead that the process you want to use can handle your inventory efficiently and successfully. 
 
-The BlueXP reports service shows information only for NFS working environments. 
+The BlueXP reports service shows information for NFS and AWS S3 working environments. 
 
 
 
