@@ -13,19 +13,20 @@ summary: With the BlueXP estate reports service, you can set notifications to al
 [.lead]
 With the BlueXP estate reports service, a notification appears in the BlueXP notifications at the top right of the BlueXP page. 
 
-You can also set notifications to alert you via email when a new report is generated. To do so, you need to select the "Info" notification setting.
+You can also set notifications to alert users via email when a new report is generated. To do so, you need to select the "Info" notification setting.
 
 .Steps 
 
 . From the BlueXP left nav, select *Storage* > *Canvas*.
 
-. Select the notifications *Bell* icon at the upper right. 
+. To see the notifications, select the notifications *Bell* icon at the upper right. 
 
-. To enable an email notification, select the *Settings* ... option on the right and select *Alerts and Notification Settings*. 
+. To enable an email notification, do the following: 
+.. Select the *Settings* ... option on the right and select *Alerts and Notification Settings*. 
 
-. Select the *Additional Recipients* tab. 
-. In the Notifications column, expand the row by selecting the arrow. 
-. For the notification level, select *Info*. 
+.. Select the *Additional Recipients* tab. 
+.. In the Notifications column, expand the row by selecting the arrow. 
+.. For the notification level, select *Info*. 
 +
 image:notifications-email-info-option.png["This image shows the Notification option setting for Info"]
 
