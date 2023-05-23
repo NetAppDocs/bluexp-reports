@@ -29,3 +29,7 @@ The BlueXP estate reports service offers the following benefits:
 == Cost
 
 NetApp doesn’t charge you for using the service. 
+
+== Licensing
+
+A NetApp License File (NLF) is not required.
