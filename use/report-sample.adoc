@@ -73,7 +73,7 @@ The Reports Distribution information is available only on completed reports.
 
 .Steps 
 
-. From the BlueXP left nav, select *Storage* > *Reports*.
+. From the BlueXP left nav, select *Storage* > *Reports* > *Estate reports*.
 
 . Select a report. 
 

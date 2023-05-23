@@ -8,5 +8,6 @@ entries:
   - title: View a sample Volumes report
     url: /use/report-sample.html
   - title: Enable report notifications
+    url: /use/report-notifications.html
   - title: Delete a report
     url: /use/report-delete.html
