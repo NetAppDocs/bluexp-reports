@@ -1,12 +1,12 @@
 indexpage:
-  lead: When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+  lead: When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
   tiles:
   - title: Get started
     #image: ./media/outline_directions_run_black_18dp.png
     links:
-    - title: Learn about BlueXP reports
+    - title: Learn about BlueXP estate reports
       url: /get-started/intro.html
-    - title: What's new in BlueXP reports
+    - title: What's new in BlueXP estate reports
       url: /release-notes/whats-new.html
 #   - title: Release notes
 #     url: /release-notes/rn_overview.html
@@ -14,11 +14,11 @@ indexpage:
       url: /get-started/quick-start.html
     - title: Prerequisites
       url: /get-started/prerequisites.html
-    - title: Log in to BlueXP reports
+    - title: Log in to BlueXP estate reports
       url: /get-started/login.html
     - title: FAQ
       url: /get-started/faq.html 
-  - title: Use BlueXP reports
+  - title: Use BlueXP estate reports
     links:
     - title: Reports overview
       url: /use/report-overview.html

@@ -1,26 +1,26 @@
 ---
 sidebar: sidebar
 permalink: get-started/intro.html
-keywords: how bluexp reports works, reports, bluexp
-summary: With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+keywords: how BlueXP estate reports works, reports, bluexp
+summary: With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
 
 ---
 
-= Learn about BlueXP reports
+= Learn about BlueXP estate reports
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/concepts/
 
 [.lead]
-When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. With this information, you will know ahead that the process you want to use can handle your inventory efficiently and successfully. 
+When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. With this information, you will know ahead that the process you want to use can handle your inventory efficiently and successfully. 
 
-The BlueXP reports service shows information for NFS and AWS S3 working environments. 
+The BlueXP estate reports service shows information for NFS and AWS S3 working environments. 
 
 
 
-== Benefits of BlueXP reports
+== Benefits of BlueXP estate reports
 
-The BlueXP reports service offers the following benefits: 
+The BlueXP estate reports service offers the following benefits: 
 
 * Provides a simple process to obtain data protection status of your working environment 
 * Offers a storage landscape

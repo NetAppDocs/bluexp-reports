@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: use/report-overview.html
-keywords: bluexp reports, data protection reports
-summary: With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+keywords: BlueXP estate reports, volume reports
+summary: With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
 ---
 
 = Reports overview
@@ -11,11 +11,12 @@ summary: With the BlueXP reports service, you can quickly identify the number of
 :imagesdir: ../media/use/
 
 [.lead]
-With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.  
+With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.  
 
-BlueXP reports services display data by volumes.
+The BlueXP estate reports service display data by volumes.
 
-Using BlueXP reports you can accomplish these goals: 
+Using BlueXP estate reports, you can accomplish these goals: 
 
-* link:../use/report-create.html[Create a report showing your storage inventory]
+* link:../use/report-create.html[Create a report]
+* link:../use/report-notification.html[Enable notifications]
 * link:../use/report-delete.html[Delete a report]

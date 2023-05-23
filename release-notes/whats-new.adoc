@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: release-notes/whats-new.html
 keywords: reports what's new, bluexp
-summary: BlueXP economic efficiency identifies assets with current or forecasted low capacity and provides recommendations on data tiering or additional capacity (for AFF systems).
+summary: With the new BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. 
 ---
 
 = What's new
@@ -11,15 +11,15 @@ summary: BlueXP economic efficiency identifies assets with current or forecasted
 :imagesdir: ../media/
 
 [.lead]
-Learn what’s new in BlueXP reports.
+Learn what’s new in BlueXP estate reports.
 
 //tag::whats-new[]
 == 02 June 2023 
 
-With the new BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. 
+With the new BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. 
 
 With this information, you will know ahead that the process you want to use can handle your inventory efficiently and successfully. 
 
-link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html[Learn more about BlueXP reports]. 
+link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html[Learn more about BlueXP estate reports]. 
 //include 3 most recent releases
 //end::whats-new[]

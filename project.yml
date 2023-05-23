@@ -1,5 +1,5 @@
 settings:
-  name: "BlueXP reports"
+  name: "BlueXP estate reports"
   internal:
     pdf_enabled: true
   prod:
@@ -8,7 +8,7 @@ settings:
 
 sidebar:
   entries:
-    - title: BlueXP reports docs
+    - title: BlueXP estate reports docs
       url: /index.html
     - section: release-notes
     - section: get-started

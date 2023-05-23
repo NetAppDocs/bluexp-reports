@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: use/report-create.html
-keywords: bluexp reports, data protection reports
-summary: With the BlueXP reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+keywords: BlueXP estate reports, volume reports
+summary: With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
 ---
 
 = Create a report
@@ -11,16 +11,19 @@ summary: With the BlueXP reports service, you can quickly identify the number of
 :imagesdir: ../media/use/
 
 [.lead]
-You can create a volumes report that will show the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
+You can create a volumes report that shows the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
 
-Each time you create a report, the BlueXP reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
+Each time you create a report, the BlueXP estate reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
 
-The BlueXP reports service shows data by volumes.
+The BlueXP estate reports service shows data by volumes.
 
+You can generate only one report at a time. 
+
+TIP: All BlueXP estate reports operations are listed in the BlueXP Timeline. To see the Timeline, select BlueXP *Settings* > *Timeline*. 
 
 .Steps 
 
-. From the BlueXP left nav, select *Storage* > *Reports*.
+. From the BlueXP left nav, select *Storage* > *Reports* > *Estate reports*.
 
 . Select *Create New Report*.
 
@@ -31,13 +34,20 @@ The BlueXP reports service shows data by volumes.
 Only those environments that are active and enabled in BlueXP appear in the list of working environments. 
 
 +
-If you want to enable an environment, refer to https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required[Learn about Connectors in BlueXP documentation].
-
-. Using the *Search* icon, search for the volume or choose from the list. 
-
-. To sort the data in different order, select the report (in the circle at the left) and sort the data in the columns. 
-
-. Select *Create Report*. 
+TIP: The BlueXP Connector must have access to the data LIF of the volume in order to access the data. 
 
 +
-The BlueXP reports service generates the report and displays it.
+If you want to enable an environment, refer to https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required[Learn about Connectors in BlueXP documentation].
+
+. Using the *Search* icon, search for the volume to report on or choose from the list. 
+
+. Select the volume. 
+
+. Select *Create report*. 
+
++
+The BlueXP estate reports service generates the report and lists it in the reports list.
+
+. To display the report, select the *Actions* ... option on the right and select *View Report*. 
+
+. To generate another instance of the same report, select the report row and on the right, select *Add report*.

@@ -2,10 +2,10 @@
 sidebar: sidebar
 permalink: get-started/login.html
 keywords: bluexp login, reports service log in
-summary: Get started with BlueXP reports by accessing the service in BlueXP.
+summary: Get started with BlueXP estate reports by accessing the service in BlueXP.
 ---
 
-= Access BlueXP reports
+= Access BlueXP estate reports
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
@@ -25,7 +25,7 @@ The NetApp BlueXP login page appears.
 
 . Do one of the following: 
 
-* From the BlueXP left navigation, select *Storage* > *Reports*.
+* From the BlueXP left navigation, select *Storage* > *Reports* > *Estate reports*.
 
 * From the BlueXP Canvas, select your working environment. In the right panel, select *Reports* > *View Cluster Reports*.
  

@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: get-started/prerequisites.html
-keywords: what are bluexp reports requirements, bluexp reports prerequisites
-summary: Get started with BlueXP reports by verifying support for your environment, network access, login and web browser.
+keywords: what are BlueXP estate reports requirements, BlueXP estate reports prerequisites
+summary: Get started with BlueXP estate reports by verifying support for your environment, network access, login and web browser.
 ---
 
-= BlueXP reports prerequisites
+= BlueXP estate reports prerequisites
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
@@ -13,7 +13,7 @@ summary: Get started with BlueXP reports by verifying support for your environme
 [.lead]
 Get started by verifying the readiness of your operational environment, login, network access, and web browser.
 
-The BlueXP reports service has the following prerequisites: 
+The BlueXP estate reports service has the following prerequisites: 
 
 * Access to the data LIF in the Cloud Volumes ONTAP Azure NetApp Files, Amazon FSx for NetApp ONTAP, or on-premises working environments
 

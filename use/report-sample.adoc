@@ -1,52 +1,43 @@
 ---
 sidebar: sidebar
 permalink: use/report-sample.html
-keywords: bluexp reports, data protection reports
+keywords: BlueXP estate reports, volume reports
 summary: Look at a sample report and learn what the data is showing. 
 ---
 
-= View a sample report - the Backup Inventory report
+= View a sample report - the Volumes report
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/use/
 
 [.lead]
-Look at a sample Backup Inventory report and learn what the data is showing. 
+Look at a sample Volumes report and learn what the data is showing. 
 
-You can generate only one report at a time. 
 
-The title of the report, for example “Volumes (100)”, indicates the number of volumes included in the report. 
+// The title of the report, for example “Volumes (100)”, indicates the number of volumes included in the report. 
   
 .Steps 
 
-. From the BlueXP left nav, select *Storage* > *Reports*.
-
-. Select *Create report*.
-
-. From the report definition page, choose the account scope either at the account level or a custom scope that you define. 
-..If you choose *Account level*, choose to report on all volumes or only those volumes that have backup copies. 
-..If you choose *Custom scope*, choose to report on one or more working environments and SVMs. To report on another working environment, select *Add Working Environment*. 
-
-
-. Select *Create report*.
-
-. Optionally sort the column data. 
-+
-The report is generated. 
+. From the BlueXP left nav, select *Storage* > *Reports* > *Estate reports*.
 
 +
-image:backup-inventory-account-scope.png["This image shows the Delete page that enables you to delete multiple reports"]
+// From the report definition page, choose the account scope either at the account level or a custom scope that you define. 
+// If you choose *Account level*, choose to report on all volumes or only those volumes that have backup copies. 
+//If you choose *Custom scope*, choose to report on one or more working environments and SVMs. To report on another working environment, select *Add Working Environment*. 
 
-. To learn what the columns mean, hover over some of the information:  
-
-.. To learn the SVM name, hover over the “*I*” information icon next to the Volume name. 
-
-.. To learn about failed reports, hover over the *Failed information* in the Last Report Status column. 
+. To display the report, select the *Actions* ... option on the right and select *View Report*. 
 
 
-. To download the report in CSV format, select *Download CSV*.
++
+image:sample-volumes-top.png["This image shows the top of a sample Volumes report"]
++
+image:sample-volumes-middle.png["This image shows the middle of a sample Volumes report"]
++
+image:sample-volumes-middle-b.png["This image shows the next section of the middle of a sample Volumes report"]
 
-. To show details of the backup copies, in the Backup copies column, select *View backup list*. 
+. To learn what the columns mean, hover over some of the information. 
+
+. To view the report in CSV format, select the *Actions* ... option on the right and select *View PDF*.
 
 
 . View the report information: 
