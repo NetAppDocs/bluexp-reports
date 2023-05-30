@@ -25,9 +25,12 @@ The NetApp BlueXP login page appears.
 
 . Do one of the following: 
 
-* From the BlueXP left navigation, select *Storage* > *Reports* > *Migration reports*.
+* From the BlueXP left navigation, select *Storage* > *Migration reports*.
 
 * From the BlueXP Canvas, select your working environment. In the right panel, select *Reports* > *View Cluster Reports*.
  
 +
-The report listing appears. If you selected a specific cluster in the BlueXP Canvas right panel, reports are filtered only for that cluster
+If you have not generated any reports, a landing page appears. If you have generated reports, the report listing appears. If you selected a specific cluster in the BlueXP Canvas right panel, reports are filtered only for that cluster.
+
++ 
+image:reports-landing.png["This image shows the service landing page"]
