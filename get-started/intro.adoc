@@ -16,8 +16,6 @@ When you are preparing to move, migrate, or clone file system data, you first ne
 
 The BlueXP migration reports service shows information for NFS and AWS S3 working environments. 
 
-
-
 == Benefits of BlueXP migration reports
 
 The BlueXP migration reports service offers the following benefits: 
@@ -30,10 +28,10 @@ The BlueXP migration reports service offers the following benefits:
 
 Using BlueXP migration reports, you can accomplish the following: 
 
-* Create reports
+* Create reports.
 * Identify how the data has changed from one report date to another by using the Reports Distribution charts. 
-* Enable email notifications about report generation
-* Delete reports
+* Enable email notifications about report generation.
+* Delete reports.
 
 
 == Cost
