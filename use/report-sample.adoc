@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: use/report-sample.html
-keywords: BlueXP estate reports, volume reports
+keywords: BlueXP migration reports, volume reports
 summary: Look at a sample report and learn what the data is showing. 
 ---
 
@@ -18,7 +18,7 @@ Look at a sample Volumes report and learn what the data is showing.
   
 .Steps 
 
-. From the BlueXP left nav, select *Storage* > *Reports* > *Estate reports*.
+. From the BlueXP left nav, select *Storage* > *Migration reports*.
 
 +
 // From the report definition page, choose the account scope either at the account level or a custom scope that you define. 
@@ -69,11 +69,11 @@ image:sample-volumes-middle-b.png["This image shows the next section of the midd
 
 You might need to how the data has changed from one report date to another. You can do this by using the Reports Distribution charts. 
 
-The Reports Distribution information is available only on completed reports. 
+The Reports Distribution information is available only on completed reports and only if there are at least two completed reports. 
 
 .Steps 
 
-. From the BlueXP left nav, select *Storage* > *Reports* > *Estate reports*.
+. From the BlueXP left nav, select *Storage* > *Migration reports*.
 
 . Select a report. 
 
@@ -81,7 +81,7 @@ The Reports Distribution information is available only on completed reports.
 
 . View the Reports distribution: 
 +
-* *Distribution Overtime (Total Size)*: The size of the volume on different dates. 
+* *Distribution Over Time (Total Size)*: The size of the volume on different dates. 
 
-* *Distribution Overtime (Total Items)*: The number of files, folders, links, and directories on different dates. 
+* *Distribution Over Time (Total Items)*: The number of files, folders, links, and directories on different dates. 
 

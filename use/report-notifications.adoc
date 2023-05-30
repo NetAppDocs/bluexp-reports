@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: use/report-notifications.html
-keywords: BlueXP estate reports, volume reports
-summary: With the BlueXP estate reports service, you can set notifications to alert you when a new report is generated.
+keywords: BlueXP migration reports, volume reports
+summary: With the BlueXP migration reports service, you can set notifications to alert you when a new report is generated.
 ---
 
 = Enable report notifications
@@ -11,7 +11,7 @@ summary: With the BlueXP estate reports service, you can set notifications to al
 :imagesdir: ../media/use/
 
 [.lead]
-With the BlueXP estate reports service, a notification appears in the BlueXP notifications at the top right of the BlueXP page. 
+With the BlueXP migration reports service, a notification appears in the BlueXP notifications at the top right of the BlueXP page. 
 
 You can also set notifications to alert users via email when a new report is generated. To do so, you need to select the "Info" notification setting.
 

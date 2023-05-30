@@ -5,7 +5,7 @@ keywords: reports faq, frequently asked questions
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
-= Frequently asked questions for BlueXP estate reports
+= Frequently asked questions for BlueXP migration reports
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/
@@ -14,26 +14,26 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 This FAQ can help if you're just looking for a quick answer to a question.
 
 
-== Access to BlueXP estate reports service
+== Access to BlueXP migration reports service
 
 
-*What's the BlueXP estate reports service URL?*
+*What's the BlueXP migration reports service URL?*
 
 
 For the URL, in a browser, enter: https://console.bluexp.netapp.com/[https://console.bluexp.netapp.com/^] to access the BlueXP console. 
 
-*How do you set up BlueXP estate reports?*
+*How do you set up BlueXP migration reports?*
 
-The BlueXP estate reports service does not require any set up. The BlueXP estate reports option is automatically enabled on the BlueXP left navigation. 
+The BlueXP migration reports service does not require any set up. The BlueXP migration reports option is automatically enabled on the BlueXP left navigation. 
 
 *Do I need a data broker?*
 
-In BlueXP copy and sync (Cloud Sync), you might need a data broker. However, the BlueXP estate reports service does not require a data broker. 
+In BlueXP copy and sync (Cloud Sync), you might need a data broker. However, the BlueXP migration reports service does not require a data broker. 
 
 
 == Licensing
 
-*Do you need a license to use BlueXP estate reports?*
+*Do you need a license to use BlueXP migration reports?*
 
 A NetApp License File (NLF) is not required.
 

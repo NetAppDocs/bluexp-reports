@@ -1,17 +1,17 @@
 ---
 sidebar: sidebar
 permalink: get-started/quick-start.html
-keywords: how to get started with BlueXP estate reports, reports quick start, data protection, storage
-summary: Get started with the NetApp BlueXP estate reports service in a few steps.
+keywords: how to get started with BlueXP migration reports, reports quick start, data protection, storage
+summary: Get started with the NetApp BlueXP migration reports service in a few steps.
 ---
 
-= Quick start for BlueXP estate reports
+= Quick start for BlueXP migration reports
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
 
 [.lead]
-Here's an overview of the steps needed to get started with BlueXP estate reports. The links within each step take you to a page that provides more details.
+Here's an overview of the steps needed to get started with BlueXP migration reports. The links within each step take you to a page that provides more details.
 
 
 

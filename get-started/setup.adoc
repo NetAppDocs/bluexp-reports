@@ -2,13 +2,13 @@
 sidebar: sidebar
 permalink: get-started/setup.html
 keywords: bluexp, reports, storage, inventory, volumes
-summary: To use BlueXP estate reports, perform a few steps to set it up.    
+summary: To use BlueXP migration reports, perform a few steps to set it up.    
 ---
 
-= Set up BlueXP estate reports
+= Set up BlueXP migration reports
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
 
 [.lead]
-You do not need to configure the BlueXP estate reports service. The BlueXP estate reports option is automatically enabled and appears on the BlueXP left navigation. 
+You do not need to configure the BlueXP migration reports service. The BlueXP migration reports option is automatically enabled and appears on the BlueXP left navigation. 

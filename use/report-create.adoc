@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: use/report-create.html
-keywords: BlueXP estate reports, volume reports
-summary: With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+keywords: BlueXP migration reports, volume reports
+summary: With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
 ---
 
 = Create a report
@@ -13,17 +13,19 @@ summary: With the BlueXP estate reports service, you can quickly identify the nu
 [.lead]
 You can create a volumes report that shows the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
 
-Each time you create a report, the BlueXP estate reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
+Each time you create a report, the BlueXP migration reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
 
-The BlueXP estate reports service shows data by volumes.
+The BlueXP migration reports service shows data by volumes.
 
 You can generate only one report at a time. 
 
-TIP: All BlueXP estate reports operations are listed in the BlueXP Timeline. To see the Timeline, select BlueXP *Settings* > *Timeline*. 
+You can also download the report as a PDF file. 
+
+TIP: All BlueXP migration reports operations are listed in the BlueXP Timeline. To see the Timeline, select BlueXP *Settings* > *Timeline*. 
 
 .Steps 
 
-. From the BlueXP left nav, select *Storage* > *Reports* > *Estate reports*.
+. From the BlueXP left nav, select *Storage* > *Migration reports*.
 
 . Select *Create New Report*.
 
@@ -46,8 +48,10 @@ If you want to enable an environment, refer to https://docs.netapp.com/us-en/clo
 . Select *Create report*. 
 
 +
-The BlueXP estate reports service generates the report and lists it in the reports list.
+The BlueXP migration reports service generates the report and lists it in the reports list.
 
 . To display the report, select the *Actions* ... option on the right and select *View Report*. 
+
+. To download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
 
 . To generate another instance of the same report, select the report row and on the right, select *Add report*.

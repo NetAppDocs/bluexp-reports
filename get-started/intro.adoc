@@ -1,30 +1,40 @@
 ---
 sidebar: sidebar
 permalink: get-started/intro.html
-keywords: how BlueXP estate reports works, reports, bluexp
-summary: With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+keywords: how BlueXP migration reports works, reports, bluexp
+summary: With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
 
 ---
 
-= Learn about BlueXP estate reports
+= Learn about BlueXP migration reports
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/concepts/
 
 [.lead]
-When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP estate reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. With this information, you will know ahead that the process you want to use can handle your inventory efficiently and successfully. 
+When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. With this information, you will know ahead that the process you want to use can handle your inventory efficiently and successfully. 
 
-The BlueXP estate reports service shows information for NFS and AWS S3 working environments. 
+The BlueXP migration reports service shows information for NFS and AWS S3 working environments. 
 
 
 
-== Benefits of BlueXP estate reports
+== Benefits of BlueXP migration reports
 
-The BlueXP estate reports service offers the following benefits: 
+The BlueXP migration reports service offers the following benefits: 
 
 * Provides a simple process to obtain data protection status of your working environment 
 * Offers a storage landscape
 * Reduces the time spent in identifying additional storage needs
+
+== What you can do with BlueXP migration reports 
+
+Using BlueXP migration reports, you can accomplish the following: 
+
+* Create reports
+* Identify how the data has changed from one report date to another by using the Reports Distribution charts. 
+* Enable email notifications about report generation
+* Delete reports
+
 
 == Cost
 
