@@ -3,9 +3,9 @@ layout: landing-page
 sidebar: sidebar
 permalink: index.html
 # lead: Use only if indexpage.lead is not present in _index.yml
-summary: "summary, used for search results"
+summary: "When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. "
 ---
-= replace with repository name
+= BlueXP migration reports
 :hardbreaks:
 :nofooter:
 :icons: font

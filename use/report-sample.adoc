@@ -1,0 +1,87 @@
+---
+sidebar: sidebar
+permalink: use/report-sample.html
+keywords: BlueXP migration reports, volume reports
+summary: Look at a sample report and learn what the data is showing. 
+---
+
+= View a sample report - the Volumes report
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+Look at a sample Volumes report and learn what the data is showing. 
+
+
+// The title of the report, for example “Volumes (100)”, indicates the number of volumes included in the report. 
+  
+.Steps 
+
+. From the BlueXP left nav, select *Storage* > *Migration reports*.
+
++
+// From the report definition page, choose the account scope either at the account level or a custom scope that you define. 
+// If you choose *Account level*, choose to report on all volumes or only those volumes that have backup copies. 
+//If you choose *Custom scope*, choose to report on one or more working environments and SVMs. To report on another working environment, select *Add Working Environment*. 
+
+. To display the report, select the *Actions* ... option on the right and select *View Report*. 
+
+
++
+image:sample-volumes-top.png["This image shows the top of a sample Volumes report"]
++
+image:sample-volumes-middle.png["This image shows the middle of a sample Volumes report"]
++
+image:sample-volumes-middle-b.png["This image shows the next section of the middle of a sample Volumes report"]
+
+. To learn what the columns mean, hover over some of the information. 
+
+. To view the report in CSV format, select the *Actions* ... option on the right and select *View PDF*.
+
+
+. View the report information: 
++
+* *Maximum* > *Total Depth*: The greatest number of subdirectories nested within a directory in the volume. In the example, directory/subdirectory/subdirectory2, the depth is 2.
+
+* *Maximum* > *Total Maximum Width*: The greatest number of items in the volume’s directories. An item is a file, subdirectory, symbolic link, or hard link.
+
+* *Maximum* > *Longest Path*: The longest subdirectory path plus the file name in the volume.
+
+* *Maximum* > *Directories*: The number of directories in the largest directory. 
+
+* *Maximum* > *Files*: The number of files in the largest directory. There might be another directory with more files, but it isn’t the largest directory in the tree.
+
+* *Access Time*: The last times that the files were accessed.
+
+* *Change Time*: The last time that the file metadata, for example, permissions, was accessed.
+
+* *Modify Time*: The last times that the content of the files was modified. 
+
+* *Top 5 Failure Reasons*: The top 5 error reasons found during the volume scan. For example, a report might contain errors related to nonexistent or incorrect access permissions or the missing files. This type of error can impact the scan of the entire set of files and directories. After you view the list of errors, you can address the issues and run the report again.
+
+
+* *Top 5 Directories and Files*: The directories having the top 5 largest number of directories or largest file sizes in the volume. 
+
+. To return to the Reports Dashboard, select *Reports* in the breadcrumbs.  
+
+=== View the Reports Distribution information 
+
+You might need to how the data has changed from one report date to another. You can do this by using the Reports Distribution charts. 
+
+The Reports Distribution information is available only on completed reports and only if there are at least two completed reports. 
+
+.Steps 
+
+. From the BlueXP left nav, select *Storage* > *Migration reports*.
+
+. Select a report. 
+
+. From the Actions menu on the right, select *View Reports Distribution*.  
+
+. View the Reports distribution: 
++
+* *Distribution Over Time (Total Size)*: The size of the volume on different dates. 
+
+* *Distribution Over Time (Total Items)*: The number of files, folders, links, and directories on different dates. 
+
