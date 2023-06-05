@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: use/report-delete.html
+keywords: BlueXP migration reports, volume reports
+summary: You might want to delete a report if it contained an error that you fixed or you no longer need that report. 
+---
+
+= Delete a report
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+You might want to delete a report if it contained an error that you fixed or you no longer need that report. You can delete one or more instances of a report. 
+
+.Steps 
+
+. From the BlueXP left nav, select *Storage* > *Migration reports*.
+
+. From the Reports Dashboard, select a report.
+. On the report row, select the *Actions* … menu and select *Delete Report*.  
+. If multiple instances of the report exist, select those that you want to delete and select *Delete*. 
++
+image:report-delete-multiple.png["This image shows the Delete page that enables you to delete multiple reports"]
+
+
+. Select *Delete* to confirm the deletion. 

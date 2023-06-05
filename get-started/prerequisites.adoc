@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: get-started/prerequisites.html
+keywords: what are BlueXP migration reports requirements, BlueXP migration reports prerequisites
+summary: Get started with BlueXP migration reports by verifying support for your environment, network access, login and web browser.
+---
+
+= BlueXP migration reports prerequisites
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/get-started/
+
+[.lead]
+Get started by verifying the readiness of your operational environment, login, network access, and web browser.
+
+The BlueXP migration reports service has the following prerequisites: 
+
+* Access to the data LIF in the Cloud Volumes ONTAP Azure NetApp Files, Amazon FSx for NetApp ONTAP, or on-premises working environments
+
+* Use of ONTAP 9.7 or later
+
+* The BlueXP Connector set up in NetApp BlueXP to the management LIF. Refer to BlueXP documentation to https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[configure the BlueXP Connector].   
+
+* Standard https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html[BlueXP requirements] 
+
+

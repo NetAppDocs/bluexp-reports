@@ -1,0 +1,57 @@
+---
+sidebar: sidebar
+permalink: use/report-create.html
+keywords: BlueXP migration reports, volume reports
+summary: With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+---
+
+= Create a report
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+You can create a volumes report that shows the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
+
+Each time you create a report, the BlueXP migration reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
+
+The BlueXP migration reports service shows data by volumes.
+
+You can generate only one report at a time. 
+
+You can also download the report as a PDF file. 
+
+TIP: All BlueXP migration reports operations are listed in the BlueXP Timeline. To see the Timeline, select BlueXP *Settings* > *Timeline*. 
+
+.Steps 
+
+. From the BlueXP left nav, select *Storage* > *Migration reports*.
+
+. Select *Create New Report*.
+
+. Enter a report name. 
+
+. Select a working environment from the drop-down list.
++
+Only those environments that are active and enabled in BlueXP appear in the list of working environments. 
+
++
+TIP: The BlueXP Connector must have access to the data LIF of the volume in order to access the data. 
+
++
+If you want to enable an environment, refer to https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required[Learn about Connectors in BlueXP documentation].
+
+. Using the *Search* icon, search for the volume to report on or choose from the list. 
+
+. Select the volume. 
+
+. Select *Create report*. 
+
++
+The BlueXP migration reports service generates the report and lists it in the reports list.
+
+. To display the report, select the *Actions* ... option on the right and select *View Report*. 
+
+. To download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
+
+. To generate another instance of the same report, select the report row and on the right, select *Add report*.

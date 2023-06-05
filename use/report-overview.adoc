@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: use/report-overview.html
+keywords: BlueXP migration reports, volume reports
+summary: With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+---
+
+= Reports overview
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.  
+
+The BlueXP migration reports service display data by volumes.
+
+Using BlueXP migration reports, you can accomplish these goals: 
+
+* link:../use/report-create.html[Create a report]
+* link:../use/report-notifications.html[Enable notifications]
+* link:../use/report-delete.html[Delete a report]
