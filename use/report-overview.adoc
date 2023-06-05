@@ -18,5 +18,5 @@ The BlueXP migration reports service display data by volumes.
 Using BlueXP migration reports, you can accomplish these goals: 
 
 * link:../use/report-create.html[Create a report]
-* link:../use/report-notification.html[Enable notifications]
+* link:../use/report-notifications.html[Enable notifications]
 * link:../use/report-delete.html[Delete a report]
