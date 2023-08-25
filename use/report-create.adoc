@@ -52,6 +52,6 @@ The BlueXP migration reports service generates the report and lists it in the re
 
 . To display the report, select the *Actions* ... option on the right and select *View Report*. 
 
-. To download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
+. To view and download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
 
 . To generate another instance of the same report, select the report row and on the right, select *Add report*.

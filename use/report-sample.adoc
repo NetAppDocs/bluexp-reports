@@ -37,7 +37,7 @@ image:sample-volumes-middle-b.png["This image shows the next section of the midd
 
 . To learn what the columns mean, hover over some of the information. 
 
-. To view the report in CSV format, select the *Actions* ... option on the right and select *View PDF*.
+. To view and download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
 
 
 . View the report information: 
