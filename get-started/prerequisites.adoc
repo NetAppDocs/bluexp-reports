@@ -19,6 +19,8 @@ The BlueXP migration reports service has the following prerequisites:
 
 * Use of ONTAP 9.7 or later
 
+* Export policy configured in ONTAP. An export policy defines the access rules to the volume. 
+
 * The BlueXP Connector set up in NetApp BlueXP to the cluster management LIF. The cluster management LIF is a virtual network interface that enables you to perform cluster management operations. Refer to BlueXP documentation to https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[configure the BlueXP Connector].   
 
 * Standard https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html[BlueXP requirements] 

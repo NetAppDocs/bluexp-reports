@@ -14,6 +14,12 @@ summary: With the new BlueXP migration reports service, you can quickly identify
 Learn what’s new in BlueXP migration reports.
 
 //tag::whats-new[]
+
+== 03 September 2023 
+The updated BlueXP migration reports service provides updates to the report data. Reports now include allocated capacity. 
+
+
+
 == 02 June 2023 
 
 With the new BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. 
@@ -22,4 +28,5 @@ With this information, you will know ahead that the process you want to use can 
 
 link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html[Learn more about BlueXP migration reports]. 
 //include 3 most recent releases
+
 //end::whats-new[]
