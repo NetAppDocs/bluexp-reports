@@ -25,11 +25,10 @@ Look at a sample Volumes report and learn what the data is showing.
 // If you choose *Account level*, choose to report on all volumes or only those volumes that have backup copies. 
 //If you choose *Custom scope*, choose to report on one or more working environments and SVMs. To report on another working environment, select *Add Working Environment*. 
 
-. To display the report, select the *Actions* ... option on the right and select *View Report*. 
 
 
 +
-image:sample-volumes-top.png["This image shows the top of a sample Volumes report"]
+image:report-sample-volumes-top-total-items.png["This image shows the top of a sample Volumes report and the Total items tab"]
 +
 image:sample-volumes-middle.png["This image shows the middle of a sample Volumes report"]
 +
@@ -37,8 +36,17 @@ image:sample-volumes-middle-b.png["This image shows the next section of the midd
 
 . To learn what the columns mean, hover over some of the information. 
 
-. To view the report in CSV format, select the *Actions* ... option on the right and select *View PDF*.
 
+. Choose any of the following options: 
++
+* To view and download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
+
+* To generate another instance of the same report, select the report row and on the right, select *Add report*.
+
+* To display information about all items, choose the *Total items* tab.
+* To display only allocated capacity information, choose the *Allocated capacity* tab. 
++
+image:report-sample-volumes-top-capacity.png["This image shows the top of a sample Volumes report and the Allocated capacity tab"]
 
 . View the report information: 
 +
@@ -70,6 +78,8 @@ image:sample-volumes-middle-b.png["This image shows the next section of the midd
 You might need to how the data has changed from one report date to another. You can do this by using the Reports Distribution charts. 
 
 The Reports Distribution information is available only on completed reports and only if there are at least two completed reports. 
+
+image:report-sample-volumes-distribution.png["This image shows the top of a sample Volumes Distribution report"]
 
 .Steps 
 

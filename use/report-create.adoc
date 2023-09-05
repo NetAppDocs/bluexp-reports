@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: use/report-create.html
 keywords: BlueXP migration reports, volume reports
-summary: With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape.
+summary: With the BlueXP migration reports service, you can create a volumes report that shows the number of files, files in directories, symbolic links, hard links, largest file sizes, allocated capacity, and more. 
 ---
 
 = Create a report
@@ -11,7 +11,7 @@ summary: With the BlueXP migration reports service, you can quickly identify the
 :imagesdir: ../media/use/
 
 [.lead]
-You can create a volumes report that shows the number of files, files in directories, symbolic links, hard links, largest file sizes, and more. 
+You can create a volumes report that shows the number of files, files in directories, symbolic links, hard links, largest file sizes, allocated capacity, and more. 
 
 Each time you create a report, the BlueXP migration reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
 
@@ -52,6 +52,24 @@ The BlueXP migration reports service generates the report and lists it in the re
 
 . To display the report, select the *Actions* ... option on the right and select *View Report*. 
 
-. To download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
++
+image:report-sample-volumes-top-total-items.png["This image shows the top of a sample Volumes report and the Total items tab"]
 
-. To generate another instance of the same report, select the report row and on the right, select *Add report*.
+. Choose any of the following options: 
++
+* To view and download a PDF file of the report, select the *Actions* ... option and select *Download Report*. 
+
+* To generate another instance of the same report, select the report row and on the right, select *Add report*.
+
+
+* To display information about all items, choose the *Total items* tab.
+* To display only allocated capacity information, choose the *Allocated capacity* tab. 
+
+
+* To view the Distribution report, from the Actions menu on the right, select *View Reports Distribution*.  
+
++ 
+TIP: The Reports Distribution information is available only on completed reports and only if there are at least two completed reports. 
+
++
+image:report-sample-volumes-distribution.png["This image shows the top of a sample Volumes Distribution report"]
