@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: release-notes/whats-new.html
 keywords: reports what's new, bluexp
-summary: With the new BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. 
+summary: Learn what's new in BlueXP migration reports.
 ---
 
 = What's new
@@ -11,14 +11,17 @@ summary: With the new BlueXP migration reports service, you can quickly identify
 :imagesdir: ../media/
 
 [.lead]
-Learn what’s new in BlueXP migration reports.
+Learn what's new in BlueXP migration reports.
 
 //tag::whats-new[]
 
-== 03 September 2023 
+== 13 November 2023
+
+You can now create reports for volumes that use the SMB/CIFS protocol. 
+
+== 03 September 2023
+
 The updated BlueXP migration reports service provides updates to the report data. Reports now include allocated capacity. 
-
-
 
 == 02 June 2023 
 
