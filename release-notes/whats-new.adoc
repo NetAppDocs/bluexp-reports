@@ -19,7 +19,7 @@ Learn what's new in BlueXP migration reports.
 
 == 12 November 2023
 
-You can now create reports for volumes that use the SMB/CIFS protocol. 
+You can now create reports for volumes that use the SMB protocol in addition to the NFS protocol. 
 
 link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html[Learn more about BlueXP migration reports]. 
 
