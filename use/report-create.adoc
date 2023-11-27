@@ -11,7 +11,7 @@ summary: With the BlueXP migration reports service, you can create a volumes rep
 :imagesdir: ../media/use/
 
 [.lead]
-You can create a volumes report that shows the number of files, files in directories, symbolic links, hard links, largest file sizes, allocated capacity, and more. 
+You can create a volumes report that shows the number of files, files in directories, symbolic links, hard links (for non-SMB protocol), largest file sizes, allocated capacity, and more. 
 
 Each time you create a report, the BlueXP migration reports service scans the path and compiles the data. Using the same report definition, you can have multiple instances of that report. 
 
@@ -26,6 +26,11 @@ TIP: All BlueXP migration reports operations are listed in the BlueXP Timeline. 
 .Steps 
 
 . From the BlueXP left nav, select *Storage* > *Migration reports*.
+
++ 
+If you already created reports, the reports listing appears. 
++
+image:report-listing.png["This image shows the list of reports"]
 
 . Select *Create New Report*.
 
@@ -43,12 +48,19 @@ If you want to enable an environment, refer to https://docs.netapp.com/us-en/clo
 
 . Using the *Search* icon, search for the volume to report on or choose from the list. 
 
-. Select the volume. 
++
+image:report-create-select-volume-smb.png["This image shows the list of volumes from which you can choose"]
+
+. Select the volume and select *Next*.
+
+. Do one of the following: 
+* If you chose SMB, select the SMB version, enter the user name and password, and optionally, enter the domain. 
+* If you chose NFS and the volume supports multiple protocols, choose the top priority protocol of *NFS* and select the NFS version for the volume. 
 
 . Select *Create report*. 
 
 +
-The BlueXP migration reports service generates the report and lists it in the reports list.
+The BlueXP migration reports service generates the report and shows it in the reports list.
 
 . To display the report, select the *Actions* ... option on the right and select *View Report*. 
 

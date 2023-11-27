@@ -14,7 +14,7 @@ summary: With the BlueXP migration reports service, you can quickly identify the
 [.lead]
 When you are preparing to move, migrate, or clone file system data, you first need to determine what you have. With the BlueXP migration reports service, you can quickly identify the number of files, directories, symbolic links, hard links, depth and breadth of file system trees, largest files, and more in your storage landscape. With this information, you will know ahead that the process you want to use can handle your inventory efficiently and successfully. 
 
-The BlueXP migration reports service shows information for NFS and AWS S3 working environments. 
+The BlueXP migration reports service shows information for NFS, SMB, and CIFS protocols and AWS S3 working environments. 
 
 == Benefits of BlueXP migration reports
 
